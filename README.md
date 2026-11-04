@@ -1,4 +1,4 @@
-#Description
+#Description:
 The Random Password Generator is a simple Python project that generates a password using random digits. Users can enter the desired password length, and the program will generate a sequence of random numbers from 0 to 9. This project helps beginners understand user input, loops, and random number generation in Python.
 
 #Features
